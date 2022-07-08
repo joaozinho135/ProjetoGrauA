@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "89947893183",
+    "project_id": "projetograua-277ff",
+    "storage_bucket": "projetograua-277ff.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:89947893183:android:de98d79e723ffa9ecd050a",
+        "android_client_info": {
+          "package_name": "com.example.projetograua"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "89947893183-e4rkhq1bthqhtrp5ckbjj2krh22oai2t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD5jBMv0H9-rLtYfzKjxqErw_ePC2SyESs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "89947893183-e4rkhq1bthqhtrp5ckbjj2krh22oai2t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
